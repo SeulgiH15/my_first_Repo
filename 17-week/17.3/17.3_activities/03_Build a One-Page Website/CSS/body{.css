@@ -1,0 +1,24 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    }
+    nav {
+        height: 50px;
+        background-color: lightgrey;
+        padding:10px;
+        border:10px;}
+
+      .inline-block {
+        padding: 15px;
+        display: inline-block;}
+    
+    #pageTopic {
+        text-align:center;
+        font-size:14px;
+        font-weight:900;}
+    .backy {
+        background-color: blue;
+        width:29%;
+        align-content: left;
+        height:200px;
+    }
